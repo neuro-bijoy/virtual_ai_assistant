@@ -8,8 +8,8 @@ import threading
 import time
 
 # ================= CONFIG ================  
-OPENROUTER_API_KEY = ("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")
-OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
+OPENROUTER_API_KEY = ("")
+OPENROUTER_URL = ""
 
 # ================= GLOBAL STATE =================
 is_speaking = False
